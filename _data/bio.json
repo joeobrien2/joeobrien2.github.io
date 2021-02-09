@@ -20,7 +20,7 @@
         "network": "linkedin",
         "username": "joe-o-brien-0a936931",
         "url": "https://www.linkedin.com/in/joe-o-brien-0a936931/"
-      },
+      }
    
     ]
   },
@@ -80,8 +80,8 @@
       "website": "https://geospatial.umd.edu/",
       "startDate": "2020-08-01",
       "endDate": "Present",
-  "summary": "",
-     "highlights": [
+      "summary": "",
+      "highlights": [
     
       ]
     },
