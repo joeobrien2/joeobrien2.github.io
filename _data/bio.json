@@ -2,9 +2,9 @@
   "basics": {
     "name": "Joe O'Brien",
     "label": "GIS Developer",
-   // "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "",
     "email": "joeobrien@outlook.com",
-    //"phone": "808-333-4444",
+    "phone": "",
     "website": "https://joeobrien2.github.io/",
     "summary": "",
     "location": {
