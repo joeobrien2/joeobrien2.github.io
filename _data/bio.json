@@ -49,7 +49,8 @@
       "keywords": [
         "Javascript",
         "HTML",
-        "CSS"
+        "CSS",
+        "Python"
       ]
     },
     {
@@ -80,7 +81,7 @@
       "website": "https://geospatial.umd.edu/",
       "startDate": "2020-08-01",
       "endDate": "Present",
-      "summary": "",
+      "summary": "COVID-19 World Symptoms Survey",
       "highlights": [
     
       ]
@@ -91,7 +92,7 @@
       "website": "https://geospatial.umd.edu/",
       "startDate": "2019-05-01",
       "endDate": "2020-11-15",
-      "summary": "",
+      "summary": "MD Environmental Justice and Park Equity Screening Tools",
       "highlights": [
        
       ]
