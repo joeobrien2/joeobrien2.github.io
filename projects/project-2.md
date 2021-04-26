@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/EJScreen.png
+image: images/EJScreen.PNG
 title: EJScreen
 permalink: projects/EJScreen
 # All dates must be YYYY-MM-DD format!
@@ -14,4 +14,4 @@ labels:
 summary: Created tools for visualizing environmental justice, park equity, and climate and health data. 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/EJScreen.png">
+<img class="ui medium right floated rounded image" src="../images/EJScreen.PNG">
