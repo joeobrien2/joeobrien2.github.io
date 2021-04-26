@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/portfolio1.PNG
 title: Covid-19 Symptom Survey
 permalink: projects/covid19
 # All dates must be YYYY-MM-DD format!
